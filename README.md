@@ -2,7 +2,7 @@
 
 #### **Objective:**
 
-In this lesson, students will start by creating the **basic structure of a user registration form**. They will only add the form itself, along with the `method` and `action` attributes, without including any input fields yet. This is the first step in building the complete registration form across Lessons 6-9.
+In this lesson, students will start by creating the **basic structure of a user registration form**. They will only add the form itself, along with the `method` and `action` attributes, without including any input fields yet. This is the first step in building the complete registration form across Lessons 5-8.
 
 ---
 
